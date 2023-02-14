@@ -10,8 +10,10 @@
 - API was tested using Postman collections and enviroment. 
 - For more details please read the attached documentation.
 
-## Documentation 
-    <"https://github.com/AnnaBKC/Google-Cloud_REST-API/blob/main/GCP-RestAPI-Documentation.pdf">
+## Documentation
+```sh
+https://github.com/AnnaBKC/Google-Cloud_REST-API/blob/main/GCP-RestAPI-Documentation.pdf
+``` 
 
 
 
