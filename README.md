@@ -1,6 +1,6 @@
 # Google Cloud REST API
 
-## Overview:
+## Overview
 - This project is a REST API implemented using Google App Engine and Google Cloud Services (Datastore, Authentication Services).
 - The API enables CRUD operations and relationships with three entities: Users, Boats, Loads. 
 - Entities are modeled and stored in Google Datastore with the following relationships: Users create and own boats, loads can be created and assigned/unassigned to boats.
@@ -11,7 +11,7 @@
 - For more details please read the attached documentation.
 
 ## Documentation 
-
+    <img src="https://github.com/AnnaBKC/Google-Cloud_REST-API/blob/main/GCP-RestAPI-Documentation.pdf">
 
 
 
