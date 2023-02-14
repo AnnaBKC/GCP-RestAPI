@@ -14,6 +14,12 @@
 
 [Google Cloud REST API Documentation](https://github.com/AnnaBKC/Google-Cloud_REST-API/blob/main/GCP-RestAPI-Documentation.pdf)
 
+## Languages and Frameworks
+- Python, HTML
+- Flask
+- Gloogle Cloud Platform
+- Google OAuth 2.0 Provider
+- Google Datastore Database
 
 
 
