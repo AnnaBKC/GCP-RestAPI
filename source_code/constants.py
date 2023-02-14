@@ -1,0 +1,6 @@
+boats6 = "boats6"
+loads1 = "loads1"
+users = "users"
+oauth3 = "oauth3"
+client_id = "<insert_client_id>"
+client_secret = "<insert_client_secret>"
